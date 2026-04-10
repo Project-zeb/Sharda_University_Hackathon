@@ -1,0 +1,23 @@
+City,State,Lat,Lon,Intensity_Metric,Terrain,Year,Block_ID
+Himalayan 2007-1 [LIVE],HP,29.8881,77.3189,62.92000000000001,Mountain,2007,cyclone_mountain
+Kutch 2007-2 [LIVE],Gujarat,21.289,69.2072,61.27000000000001,Desert,2007,cyclone_desert
+Kutch 2008-1 [LIVE],Gujarat,22.8305,70.2426,66.0,Desert,2008,cyclone_desert
+Andaman 2008-2 [LIVE],Andaman,13.0624,94.2387,44.88,Coastal,2008,cyclone_coastal
+Delhi NCR 2009-1 [LIVE],Delhi,29.4164,75.6761,60.83,Plain,2009,cyclone_plain
+Himalayan 2009-2 [LIVE],HP,31.2221,76.232,90.31,Mountain,2009,cyclone_mountain
+Himalayan 2010-1 [LIVE],HP,30.4556,77.1109,117.48,Mountain,2010,cyclone_mountain
+Andaman 2010-2 [LIVE],Andaman,11.3066,92.6702,157.96,Coastal,2010,cyclone_coastal
+Deccan 2011-1 [LIVE],Maharashtra,17.8997,74.7474,55.77000000000001,Plateau,2011,cyclone_plateau
+Himalayan 2011-2 [LIVE],HP,31.7792,75.8989,117.81,Mountain,2011,cyclone_mountain
+Kutch 2012-1 [LIVE],Gujarat,23.0705,70.0893,124.19000000000001,Desert,2012,cyclone_desert
+Guwahati 2012-2 [LIVE],Assam,24.7221,91.3469,112.64000000000001,Forest,2012,cyclone_forest
+Andaman 2013-1 [LIVE],Andaman,12.3385,92.8714,54.67000000000001,Coastal,2013,cyclone_coastal
+Himalayan 2013-2 [LIVE],HP,30.8844,76.6989,91.08,Mountain,2013,cyclone_mountain
+Guwahati 2014-1 [LIVE],Assam,28.4407,92.771,160.82,Forest,2014,cyclone_forest
+Himalayan 2014-2 [LIVE],HP,29.8694,77.1344,141.02,Mountain,2014,cyclone_mountain
+Delhi NCR 2015-1 [LIVE],Delhi,28.5565,76.9247,91.74000000000001,Plain,2015,cyclone_plain
+Kutch 2015-2 [LIVE],Gujarat,23.9363,68.7933,139.59,Desert,2015,cyclone_desert
+Kutch 2016-1 [LIVE],Gujarat,23.0928,69.0765,57.970000000000006,Desert,2016,cyclone_desert
+Delhi NCR 2016-2 [LIVE],Delhi,27.0918,78.2996,51.7,Plain,2016,cyclone_plain
+Deccan 2017-1 [LIVE],Maharashtra,19.6797,72.9018,121.11,Plateau,2017,cyclone_plateau
+Kutch 2017-2 [LIVE],Gujarat,21.2556,70.7695,161.59000000000003,Desert,2017,cyclone_desert

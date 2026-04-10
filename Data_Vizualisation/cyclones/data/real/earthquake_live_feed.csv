@@ -1,0 +1,363 @@
+City,State,Lat,Lon,Intensity_Metric,Terrain,Year,Block_ID
+"93 km WSW of Myitkyina, Myanmar",Real Data,25.0911,96.5235,5.0,Live Coordinates,2023,loc_25_1_96_5_myanmar
+"31 km S of Padam, India",Real Data,33.1836,76.8401,5.1,Live Coordinates,2023,loc_33_2_76_8_india
+"9 km ENE of Rāmganj, Bangladesh",Real Data,23.1475,90.9317,5.5,Live Coordinates,2023,loc_23_1_90_9_bangladesh
+"34 km E of Dailekh, Nepal",Real Data,28.8564,82.0652,5.3,Live Coordinates,2023,loc_28_9_82_1_nepal
+"43 km E of Dailekh, Nepal",Real Data,28.858,82.1531,5.7,Live Coordinates,2023,loc_28_9_82_2_nepal
+"36 km NE of Bharatpur, Nepal",Real Data,27.8879,84.7252,5.2,Live Coordinates,2023,loc_27_9_84_7_nepal
+"38 km NE of Dipayal, Nepal",Real Data,29.5133,81.2055,5.0,Live Coordinates,2023,loc_29_5_81_2_nepal
+"39 km NE of Dipayal, Nepal",Real Data,29.4973,81.242,5.7,Live Coordinates,2023,loc_29_5_81_2_nepal
+"83 km ESE of Wāngjing, India",Real Data,24.3645,94.8511,5.0,Live Coordinates,2023,loc_24_4_94_9_india
+"205 km N of Shi Yomi, India",Real Data,30.3522,94.7507,5.0,Live Coordinates,2023,loc_30_4_94_8_india
+"16 km NW of Karīmganj, India",Real Data,24.9796,92.2481,5.3,Live Coordinates,2023,loc_25_0_92_2_india
+"293 km SSE of Port Blair, India",Real Data,9.1915,93.7124,5.0,Live Coordinates,2023,loc_9_2_93_7_india
+"38 km SSE of Jurm, Afghanistan",Real Data,36.5314,70.9379,5.1,Live Coordinates,2023,loc_36_5_70_9_afghanistan
+"Badakhshan, Afghanistan",Real Data,36.431,70.6689,5.3,Live Coordinates,2023,loc_36_4_70_7_afghanistan
+"47 km SSW of Jurm, Afghanistan",Real Data,36.4504,70.7227,5.8,Live Coordinates,2023,loc_36_5_70_7_afghanistan
+"23 km NNW of Shingli Bala, Pakistan",Real Data,34.8611,72.8455,5.0,Live Coordinates,2023,loc_34_9_72_8_pakistan
+"278 km SSE of Port Blair, India",Real Data,9.5163,94.0695,5.2,Live Coordinates,2023,loc_9_5_94_1_india
+"287 km SSE of Port Blair, India",Real Data,9.3458,93.9282,5.3,Live Coordinates,2023,loc_9_3_93_9_india
+"152 km SE of Port Blair, India",Real Data,10.5368,93.5418,5.9,Live Coordinates,2023,loc_10_5_93_5_india
+"206 km NNE of Shi Yomi, India",Real Data,30.35,94.8318,5.0,Live Coordinates,2023,loc_30_4_94_8_india
+"22 km ESE of Farkhār, Afghanistan",Real Data,36.5193,70.0961,5.1,Live Coordinates,2023,loc_36_5_70_1_afghanistan
+"131 km SSE of Pyapon, Myanmar",Real Data,15.2546,96.2895,5.6,Live Coordinates,2023,loc_15_3_96_3_myanmar
+India-Bangladesh border region,Real Data,24.7339,92.0224,5.0,Live Coordinates,2023,loc_24_7_92_0_region
+"23 km NE of Bhadarwāh, India",Real Data,33.1191,75.9074,5.2,Live Coordinates,2023,loc_33_1_75_9_india
+"121 km WSW of Myitkyina, Myanmar",Real Data,25.1051,96.2315,5.9,Live Coordinates,2023,loc_25_1_96_2_myanmar
+"34 km SE of Jurm, Afghanistan",Real Data,36.6064,71.0508,5.3,Live Coordinates,2023,loc_36_6_71_1_afghanistan
+"109 km SW of Port Blair, India",Real Data,10.972,92.0333,5.1,Live Coordinates,2023,loc_11_0_92_0_india
+"41 km SSW of Jurm, Afghanistan",Real Data,36.4988,70.7311,5.3,Live Coordinates,2023,loc_36_5_70_7_afghanistan
+"72 km NE of Dipayal, Nepal",Real Data,29.6212,81.5483,5.1,Live Coordinates,2023,loc_29_6_81_5_nepal
+"Nicobar Islands, India region",Real Data,9.3625,93.8685,5.0,Live Coordinates,2023,loc_9_4_93_9_region
+"Nicobar Islands, India region",Real Data,9.0116,93.9224,5.2,Live Coordinates,2023,loc_9_0_93_9_region
+"Nicobar Islands, India region",Real Data,8.966,93.9695,5.7,Live Coordinates,2023,loc_9_0_94_0_region
+"Nicobar Islands, India region",Real Data,8.9326,93.9552,5.5,Live Coordinates,2023,loc_8_9_94_0_region
+"Nicobar Islands, India region",Real Data,9.096,94.0003,5.3,Live Coordinates,2023,loc_9_1_94_0_region
+"Nicobar Islands, India region",Real Data,9.058,93.9052,5.0,Live Coordinates,2023,loc_9_1_93_9_region
+"40 km SSE of Jurm, Afghanistan",Real Data,36.523,70.943,6.5,Live Coordinates,2023,loc_36_5_70_9_afghanistan
+"111 km WSW of Qamdo, China",Real Data,30.7663,96.0896,5.0,Live Coordinates,2023,loc_30_8_96_1_china
+"105 km ENE of Port Blair, India",Real Data,12.1363,93.5873,5.0,Live Coordinates,2023,loc_12_1_93_6_india
+"152 km S of Hotan, China",Real Data,35.7367,79.8867,5.0,Live Coordinates,2023,loc_35_7_79_9_china
+"152 km S of Hotan, China",Real Data,35.7331,79.8502,5.0,Live Coordinates,2023,loc_35_7_79_9_china
+"60 km NW of Jumla, Nepal",Real Data,29.5825,81.6638,5.4,Live Coordinates,2023,loc_29_6_81_7_nepal
+"12 km NE of Lakhipur, India",Real Data,24.8836,93.079,5.1,Live Coordinates,2023,loc_24_9_93_1_india
+"45 km ENE of P?r?n, Afghanistan",Real Data,35.5464,71.3961,5.1,Live Coordinates,2023,loc_35_5_71_4_afghanistan
+"44 km S of Jurm, Afghanistan",Real Data,36.4738,70.7455,6.0,Live Coordinates,2023,loc_36_5_70_7_afghanistan
+"25 km ENE of Dipayal, Nepal",Real Data,29.3523,81.1777,5.2,Live Coordinates,2022,loc_29_4_81_2_nepal
+"16 km SSE of Shi Yomi, India",Real Data,28.3835,94.4118,5.5,Live Coordinates,2022,loc_28_4_94_4_india
+Nepal,Real Data,29.2917,81.1593,5.7,Live Coordinates,2022,loc_29_3_81_2_nepal
+"190 km N of Nagqu, China",Real Data,33.1963,92.0137,5.0,Live Coordinates,2022,loc_33_2_92_0_china
+"45 km E of Port Blair, India",Real Data,11.5884,93.1518,5.1,Live Coordinates,2022,loc_11_6_93_2_india
+"78 km SE of Mawlaik, Myanmar",Real Data,23.1002,94.8968,5.6,Live Coordinates,2022,loc_23_1_94_9_myanmar
+"35 km NE of Jal?l?b?d, Afghanistan",Real Data,34.6636,70.7117,5.1,Live Coordinates,2022,loc_34_7_70_7_afghanistan
+"Andaman Islands, India region",Real Data,13.9359,93.6367,5.0,Live Coordinates,2022,loc_13_9_93_6_region
+"18 km NE of Mawlaik, Myanmar",Real Data,23.7516,94.5482,5.0,Live Coordinates,2022,loc_23_8_94_5_myanmar
+"194 km NNE of Nagqu, China",Real Data,33.1157,92.7977,5.7,Live Coordinates,2022,loc_33_1_92_8_china
+"26 km W of Bhojpur, Nepal",Real Data,27.1316,86.7827,5.1,Live Coordinates,2022,loc_27_1_86_8_nepal
+"50 km SW of Kh?st, Afghanistan",Real Data,33.0608,69.4864,5.2,Live Coordinates,2022,loc_33_1_69_5_afghanistan
+"Andaman Islands, India region",Real Data,10.4818,94.1885,5.2,Live Coordinates,2022,loc_10_5_94_2_region
+"228 km SE of Port Blair, India",Real Data,10.2666,94.2833,5.0,Live Coordinates,2022,loc_10_3_94_3_india
+"Andaman Islands, India region",Real Data,10.3277,94.2534,5.4,Live Coordinates,2022,loc_10_3_94_3_region
+"201 km SE of Port Blair, India",Real Data,10.2638,93.9224,5.0,Live Coordinates,2022,loc_10_3_93_9_india
+"219 km SE of Port Blair, India",Real Data,10.3944,94.2851,5.0,Live Coordinates,2022,loc_10_4_94_3_india
+"Andaman Islands, India region",Real Data,10.3591,94.1964,5.0,Live Coordinates,2022,loc_10_4_94_2_region
+"214 km SE of Port Blair, India",Real Data,10.3072,94.1437,5.0,Live Coordinates,2022,loc_10_3_94_1_india
+"204 km SE of Port Blair, India",Real Data,10.4305,94.1413,5.1,Live Coordinates,2022,loc_10_4_94_1_india
+"43 km WNW of Myaydo, Myanmar",Real Data,19.5636,94.8605,5.1,Live Coordinates,2022,loc_19_6_94_9_myanmar
+"55 km SW of Kh?st, Afghanistan",Real Data,33.0203,69.4639,6.0,Live Coordinates,2022,loc_33_0_69_5_afghanistan
+"39 km WSW of Ashk?sham, Afghanistan",Real Data,36.5049,71.1541,5.1,Live Coordinates,2022,loc_36_5_71_2_afghanistan
+"Nicobar Islands, India region",Real Data,8.9674,93.6949,5.0,Live Coordinates,2022,loc_9_0_93_7_region
+"90 km NW of Pathein, Myanmar",Real Data,17.4476,94.2503,5.2,Live Coordinates,2022,loc_17_4_94_3_myanmar
+"64 km ESE of Falam, Myanmar",Real Data,22.6784,94.2561,5.0,Live Coordinates,2022,loc_22_7_94_3_myanmar
+"156 km NE of Thang, India",Real Data,35.9998,77.9099,5.1,Live Coordinates,2022,loc_36_0_77_9_india
+"65 km ESE of Gilgit, Pakistan",Real Data,35.5965,74.9251,5.1,Live Coordinates,2022,loc_35_6_74_9_pakistan
+"34 km NE of B?z?rak, Afghanistan",Real Data,35.5378,69.7845,5.2,Live Coordinates,2022,loc_35_5_69_8_afghanistan
+"45 km SW of Ashk?sham, Afghanistan",Real Data,36.4307,71.126,5.8,Live Coordinates,2022,loc_36_4_71_1_afghanistan
+"2 km ENE of Nahr?n, Afghanistan",Real Data,36.0702,69.1575,5.0,Live Coordinates,2022,loc_36_1_69_2_afghanistan
+"23 km NE of Falam, Myanmar",Real Data,23.0871,93.8172,5.4,Live Coordinates,2022,loc_23_1_93_8_myanmar
+"86 km NNW of Shi Yomi, India",Real Data,29.2819,94.1513,5.1,Live Coordinates,2022,loc_29_3_94_2_india
+"16 km SSW of Ashk?sham, Afghanistan",Real Data,36.5418,71.4945,5.3,Live Coordinates,2022,loc_36_5_71_5_afghanistan
+"Badakhshan, Afghanistan",Real Data,36.59,71.1783,5.2,Live Coordinates,2022,loc_36_6_71_2_afghanistan
+"northern Qinghai, China",Real Data,36.9982,94.6585,5.0,Live Coordinates,2021,loc_37_0_94_7_china
+"213 km SSE of Port Blair, India",Real Data,9.8601,93.4354,5.0,Live Coordinates,2021,loc_9_9_93_4_india
+"60 km SE of Gilgit, Pakistan",Real Data,35.5592,74.8205,5.2,Live Coordinates,2021,loc_35_6_74_8_pakistan
+"Andaman Islands, India region",Real Data,10.2993,94.0416,5.0,Live Coordinates,2021,loc_10_3_94_0_region
+"225 km N of Bamboo Flat, India",Real Data,13.7358,92.7495,5.1,Live Coordinates,2021,loc_13_7_92_7_india
+"71 km NW of Mogok, Myanmar",Real Data,23.4414,96.1089,5.0,Live Coordinates,2021,loc_23_4_96_1_myanmar
+"289 km NNW of Rikaze, China",Real Data,31.723,87.9296,5.5,Live Coordinates,2021,loc_31_7_87_9_china
+"20 km WSW of Falam, Myanmar",Real Data,22.8232,93.5061,6.2,Live Coordinates,2021,loc_22_8_93_5_myanmar
+"115 km NNE of Lobujya, Nepal",Real Data,28.8267,87.4455,5.0,Live Coordinates,2021,loc_28_8_87_4_nepal
+"44 km WNW of Monywa, Myanmar",Real Data,22.3124,94.7676,5.5,Live Coordinates,2021,loc_22_3_94_8_myanmar
+"203 km NNE of Shi Yomi, India",Real Data,30.3214,94.8247,5.0,Live Coordinates,2021,loc_30_3_94_8_india
+"206 km N of Shi Yomi, India",Real Data,30.3557,94.7747,5.0,Live Coordinates,2021,loc_30_4_94_8_india
+"Nicobar Islands, India region",Real Data,8.6251,94.1834,5.4,Live Coordinates,2021,loc_8_6_94_2_region
+"62 km SE of Phek, India",Real Data,25.2256,94.8803,5.0,Live Coordinates,2021,loc_25_2_94_9_india
+"267 km N of Bamboo Flat, India",Real Data,14.1061,92.9896,5.2,Live Coordinates,2021,loc_14_1_93_0_india
+"51 km S of Zangguy, China",Real Data,36.8193,78.7332,5.0,Live Coordinates,2021,loc_36_8_78_7_china
+"257 km SSE of R?zole, India",Real Data,14.4654,83.0456,5.1,Live Coordinates,2021,loc_14_5_83_0_india
+"Nicobar Islands, India region",Real Data,8.7641,93.9557,5.1,Live Coordinates,2021,loc_8_8_94_0_region
+"Nicobar Islands, India region",Real Data,8.814,94.0044,5.1,Live Coordinates,2021,loc_8_8_94_0_region
+"Nicobar Islands, India region",Real Data,8.7966,94.0775,5.5,Live Coordinates,2021,loc_8_8_94_1_region
+"Nicobar Islands, India region",Real Data,9.0017,94.158,5.8,Live Coordinates,2021,loc_9_0_94_2_region
+"Nicobar Islands, India region",Real Data,8.8809,94.0192,6.1,Live Coordinates,2021,loc_8_9_94_0_region
+"Nicobar Islands, India region",Real Data,8.8628,94.0564,5.3,Live Coordinates,2021,loc_8_9_94_1_region
+"Nicobar Islands, India region",Real Data,9.0127,94.1198,5.3,Live Coordinates,2021,loc_9_0_94_1_region
+"44 km NE of Shwebo, Myanmar",Real Data,22.8638,95.9967,5.5,Live Coordinates,2021,loc_22_9_96_0_myanmar
+"36 km NW of Rajanpur, Pakistan",Real Data,29.3258,70.0487,5.2,Live Coordinates,2021,loc_29_3_70_0_pakistan
+"8 km SSE of Lakhipur, India",Real Data,25.9603,90.3499,5.3,Live Coordinates,2021,loc_26_0_90_3_india
+"10 km SW of Charikar, Afghanistan",Real Data,34.9509,69.0848,5.1,Live Coordinates,2021,loc_35_0_69_1_afghanistan
+"17 km ENE of Battagram, Pakistan",Real Data,34.7242,73.2047,5.0,Live Coordinates,2021,loc_34_7_73_2_pakistan
+"25 km ESE of Farkh?r, Afghanistan",Real Data,36.5239,70.1352,5.0,Live Coordinates,2021,loc_36_5_70_1_afghanistan
+"36 km E of Pokhara, Nepal",Real Data,28.2785,84.3373,5.3,Live Coordinates,2021,loc_28_3_84_3_nepal
+"6 km NE of Dhekiajuli, India",Real Data,26.7489,92.5136,5.0,Live Coordinates,2021,loc_26_7_92_5_india
+"8 km NNW of Dhekiajuli, India",Real Data,26.7813,92.4565,6.0,Live Coordinates,2021,loc_26_8_92_5_india
+"61 km ESE of Hakha, Myanmar",Real Data,22.5129,94.1955,5.1,Live Coordinates,2021,loc_22_5_94_2_myanmar
+"92 km ENE of Nagqu, China",Real Data,31.8686,92.9137,5.0,Live Coordinates,2021,loc_31_9_92_9_china
+"35 km NNW of Samtse, Bhutan",Real Data,27.1863,88.9412,5.2,Live Coordinates,2021,loc_27_2_88_9_bhutan
+western Xizang,Real Data,34.3549,87.6921,5.5,Live Coordinates,2021,loc_34_4_87_7_xizang
+"47 km NNE of Bomdila, India",Real Data,27.6289,92.6692,5.0,Live Coordinates,2021,loc_27_6_92_7_india
+"97 km ENE of Nagqu, China",Real Data,31.9664,92.9084,5.0,Live Coordinates,2021,loc_32_0_92_9_china
+western Xizang,Real Data,34.7094,83.4724,5.2,Live Coordinates,2021,loc_34_7_83_5_xizang
+"95 km ENE of Nagqu, China",Real Data,31.9246,92.9151,5.7,Live Coordinates,2021,loc_31_9_92_9_china
+"104 km NNE of Lobujya, Nepal",Real Data,28.7463,87.3785,5.1,Live Coordinates,2021,loc_28_7_87_4_nepal
+"110 km NNE of Lobujya, Nepal",Real Data,28.8225,87.362,5.0,Live Coordinates,2021,loc_28_8_87_4_nepal
+"47 km SSW of Jurm, Afghanistan",Real Data,36.4494,70.6979,5.5,Live Coordinates,2021,loc_36_4_70_7_afghanistan
+"16 km W of Kishtw?r, India",Real Data,33.3042,75.5872,5.1,Live Coordinates,2021,loc_33_3_75_6_india
+"7 km NNW of Shingli Bala, Pakistan",Real Data,34.741,72.9466,5.0,Live Coordinates,2020,loc_34_7_72_9_pakistan
+"77 km W of Monywa, Myanmar",Real Data,22.2089,94.3877,5.1,Live Coordinates,2020,loc_22_2_94_4_myanmar
+"22 km E of Mawlaik, Myanmar",Real Data,23.6092,94.6188,5.0,Live Coordinates,2020,loc_23_6_94_6_myanmar
+"33 km WNW of Moir?ng, India",Real Data,24.6661,93.4997,5.5,Live Coordinates,2020,loc_24_7_93_5_india
+"150 km E of Leh, India",Real Data,34.1788,79.2141,5.0,Live Coordinates,2020,loc_34_2_79_2_india
+"52 km E of Leh, India",Real Data,34.1448,78.1519,5.0,Live Coordinates,2020,loc_34_1_78_2_india
+"58 km E of Leh, India",Real Data,34.2487,78.2058,5.3,Live Coordinates,2020,loc_34_2_78_2_india
+"12 km NE of Falam, Myanmar",Real Data,22.9861,93.7677,5.1,Live Coordinates,2020,loc_23_0_93_8_myanmar
+"14 km SSW of Kod?ri??, Nepal",Real Data,27.8464,85.8765,5.3,Live Coordinates,2020,loc_27_8_85_9_nepal
+"26 km E of North Vanlaiphai, India",Real Data,23.1636,93.3258,5.3,Live Coordinates,2020,loc_23_2_93_3_india
+western Xizang,Real Data,33.1508,86.8235,5.1,Live Coordinates,2020,loc_33_2_86_8_xizang
+western Xizang,Real Data,33.2088,86.773,5.0,Live Coordinates,2020,loc_33_2_86_8_xizang
+western Xizang,Real Data,33.1438,86.8637,6.3,Live Coordinates,2020,loc_33_1_86_9_xizang
+"213 km NNE of Shi Yomi, India",Real Data,30.412,94.8613,5.0,Live Coordinates,2020,loc_30_4_94_9_india
+"247 km E of Port Blair, India",Real Data,12.0979,94.9745,5.7,Live Coordinates,2020,loc_12_1_95_0_india
+"25 km E of North Vanlaiphai, India",Real Data,23.1162,93.3092,5.1,Live Coordinates,2020,loc_23_1_93_3_india
+"228 km E of Port Blair, India",Real Data,11.8485,94.8316,5.0,Live Coordinates,2020,loc_11_8_94_8_india
+"239 km E of Port Blair, India",Real Data,11.8485,94.9362,6.1,Live Coordinates,2020,loc_11_8_94_9_india
+"243 km E of Port Blair, India",Real Data,11.8395,94.9771,5.1,Live Coordinates,2020,loc_11_8_95_0_india
+"276 km SE of Hotan, China",Real Data,35.6685,82.4472,5.0,Live Coordinates,2020,loc_35_7_82_4_china
+"278 km SE of Hotan, China",Real Data,35.5948,82.4158,6.3,Live Coordinates,2020,loc_35_6_82_4_china
+"22 km E of North Vanlaiphai, India",Real Data,23.1449,93.2856,5.6,Live Coordinates,2020,loc_23_1_93_3_india
+"27 km SE of Jurm, Afghanistan",Real Data,36.6712,71.0335,5.0,Live Coordinates,2020,loc_36_7_71_0_afghanistan
+"9 km N of Bhach?u, India",Real Data,23.3821,70.3548,5.1,Live Coordinates,2020,loc_23_4_70_4_india
+"13 km SSW of Kakching, India",Real Data,24.3856,93.9197,5.1,Live Coordinates,2020,loc_24_4_93_9_india
+"38 km ESE of Falam, Myanmar",Real Data,22.8004,94.0292,5.9,Live Coordinates,2020,loc_22_8_94_0_myanmar
+"85 km NE of Lobujya, Nepal",Real Data,28.5896,87.3081,5.7,Live Coordinates,2020,loc_28_6_87_3_nepal
+western Xizang,Real Data,32.7152,85.3323,5.4,Live Coordinates,2020,loc_32_7_85_3_xizang
+western Xizang,Real Data,32.8006,85.5456,5.2,Live Coordinates,2020,loc_32_8_85_5_xizang
+"47 km NNE of Chamba, India",Real Data,32.9752,76.2474,5.0,Live Coordinates,2020,loc_33_0_76_2_india
+western Xizang,Real Data,34.5182,85.6961,5.1,Live Coordinates,2020,loc_34_5_85_7_xizang
+"10 km E of Abhay?puri, India",Real Data,26.3386,90.7847,5.0,Live Coordinates,2020,loc_26_3_90_8_india
+"187 km SE of Port Blair, India",Real Data,10.3105,93.7827,5.0,Live Coordinates,2020,loc_10_3_93_8_india
+"223 km WNW of Qamdo, China",Real Data,31.995,95.0575,5.2,Live Coordinates,2020,loc_32_0_95_1_china
+"68 km NNW of Bandipura, India",Real Data,35.0149,74.474,5.1,Live Coordinates,2020,loc_35_0_74_5_india
+"43 km SE of Gilgit, Pakistan",Real Data,35.6305,74.6387,5.0,Live Coordinates,2019,loc_35_6_74_6_pakistan
+"46 km SE of Gilgit, Pakistan",Real Data,35.5909,74.628,5.6,Live Coordinates,2019,loc_35_6_74_6_pakistan
+"49 km SW of Jurm, Afghanistan",Real Data,36.5374,70.4555,6.1,Live Coordinates,2019,loc_36_5_70_5_afghanistan
+"43 km S of Jurm, Afghanistan",Real Data,36.4769,70.7941,5.0,Live Coordinates,2019,loc_36_5_70_8_afghanistan
+"285 km NNW of Sabang, Indonesia",Real Data,8.351,94.5307,5.0,Live Coordinates,2019,loc_8_4_94_5_indonesia
+"56 km WNW of Mogok, Myanmar",Real Data,23.1791,96.0354,5.2,Live Coordinates,2019,loc_23_2_96_0_myanmar
+"27 km WSW of Thayetmyo, Myanmar",Real Data,19.2269,94.9378,5.3,Live Coordinates,2019,loc_19_2_94_9_myanmar
+"20 km ENE of Dipayal, Nepal",Real Data,29.3228,81.1433,5.0,Live Coordinates,2019,loc_29_3_81_1_nepal
+"47 km SSE of Port Blair, India",Real Data,11.2863,92.9571,5.1,Live Coordinates,2019,loc_11_3_93_0_india
+"24 km S of Ashk?sham, Afghanistan",Real Data,36.4665,71.5096,5.1,Live Coordinates,2019,loc_36_5_71_5_afghanistan
+"23 km E of Farkh?r, Afghanistan",Real Data,36.5503,70.1149,5.1,Live Coordinates,2019,loc_36_6_70_1_afghanistan
+"42 km SSW of Jurm, Afghanistan",Real Data,36.5287,70.6021,5.0,Live Coordinates,2019,loc_36_5_70_6_afghanistan
+"43 km SSW of Jurm, Afghanistan",Real Data,36.5069,70.6409,5.1,Live Coordinates,2019,loc_36_5_70_6_afghanistan
+"8 km SSE of New Mirpur, Pakistan",Real Data,33.0779,73.7936,5.4,Live Coordinates,2019,loc_33_1_73_8_pakistan
+"26 km NW of Shwebo, Myanmar",Real Data,22.7414,95.522,5.4,Live Coordinates,2019,loc_22_7_95_5_myanmar
+"38 km SSE of Khanabad, Afghanistan",Real Data,36.3898,69.3398,5.0,Live Coordinates,2019,loc_36_4_69_3_afghanistan
+"39 km SSE of Chur?ch?ndpur, India",Real Data,24.0196,93.858,5.0,Live Coordinates,2019,loc_24_0_93_9_india
+"81 km WSW of Pyay, Myanmar",Real Data,18.4733,94.5394,5.2,Live Coordinates,2019,loc_18_5_94_5_myanmar
+"48 km SSW of Jurm, Afghanistan",Real Data,36.4389,70.693,5.1,Live Coordinates,2019,loc_36_4_70_7_afghanistan
+"206 km NNE of Shi Yomi, India",Real Data,30.3447,94.8731,5.0,Live Coordinates,2019,loc_30_3_94_9_india
+"18 km ESE of Farkh?r, Afghanistan",Real Data,36.5272,70.0571,5.8,Live Coordinates,2019,loc_36_5_70_1_afghanistan
+"23 km W of Ashk?sham, Afghanistan",Real Data,36.6761,71.2747,5.1,Live Coordinates,2019,loc_36_7_71_3_afghanistan
+"248 km E of Port Blair, India",Real Data,11.9126,95.0085,5.0,Live Coordinates,2019,loc_11_9_95_0_india
+"64 km NE of Bomdila, India",Real Data,27.7188,92.8302,5.5,Live Coordinates,2019,loc_27_7_92_8_india
+Bay of Bengal,Real Data,9.3763,87.1121,5.0,Live Coordinates,2019,loc_9_4_87_1_bengal
+"11 km W of Shingli Bala, Pakistan",Real Data,34.6813,72.8572,5.2,Live Coordinates,2019,loc_34_7_72_9_pakistan
+"241 km N of Bamboo Flat, India",Real Data,13.8733,92.9509,5.0,Live Coordinates,2019,loc_13_9_93_0_india
+"244 km N of Bamboo Flat, India",Real Data,13.8921,92.9916,5.6,Live Coordinates,2019,loc_13_9_93_0_india
+"86 km SE of Mon, India",Real Data,26.2288,95.7216,5.2,Live Coordinates,2019,loc_26_2_95_7_india
+"22 km SE of Shi Yomi, India",Real Data,28.4073,94.5605,5.9,Live Coordinates,2019,loc_28_4_94_6_india
+"Andaman Islands, India region",Real Data,13.1345,95.4198,5.1,Live Coordinates,2019,loc_13_1_95_4_region
+"25 km SSW of Phek, India",Real Data,25.4467,94.4235,5.1,Live Coordinates,2019,loc_25_4_94_4_india
+"268 km ESE of Port Blair, India",Real Data,11.1534,95.1558,5.2,Live Coordinates,2019,loc_11_2_95_2_india
+"269 km N of Bamboo Flat, India",Real Data,14.1145,93.0433,5.2,Live Coordinates,2019,loc_14_1_93_0_india
+"68 km SSE of Tezu, India",Real Data,27.3345,96.3645,5.0,Live Coordinates,2019,loc_27_3_96_4_india
+"87 km NNW of Bandipura, India",Real Data,35.103,74.1694,5.2,Live Coordinates,2019,loc_35_1_74_2_india
+"46 km SSW of Jurm, Afghanistan",Real Data,36.4642,70.7006,5.6,Live Coordinates,2019,loc_36_5_70_7_afghanistan
+"175 km NW of Rikaze, China",Real Data,30.3908,87.6229,5.2,Live Coordinates,2019,loc_30_4_87_6_china
+"32 km SSE of Mawlaik, Myanmar",Real Data,23.3862,94.5614,5.0,Live Coordinates,2018,loc_23_4_94_6_myanmar
+"197 km NE of Saga, China",Real Data,30.4684,86.7946,5.0,Live Coordinates,2018,loc_30_5_86_8_china
+"177 km NW of Rikaze, China",Real Data,30.4079,87.62,5.8,Live Coordinates,2018,loc_30_4_87_6_china
+"103 km SSE of Hayuliang, India",Real Data,27.1986,96.9185,5.4,Live Coordinates,2018,loc_27_2_96_9_india
+"47 km E of Darlawn, India",Real Data,23.9724,93.3925,5.2,Live Coordinates,2018,loc_24_0_93_4_india
+"179 km NW of Rikaze, China",Real Data,30.2891,87.4647,5.0,Live Coordinates,2018,loc_30_3_87_5_china
+"46 km ENE of Pyay, Myanmar",Real Data,19.0329,95.6084,5.1,Live Coordinates,2018,loc_19_0_95_6_myanmar
+"143 km NNW of Bamboo Flat, India",Real Data,12.9046,92.2347,5.1,Live Coordinates,2018,loc_12_9_92_2_india
+"286 km E of Leh, India",Real Data,34.2169,80.6903,5.0,Live Coordinates,2018,loc_34_2_80_7_india
+"5 km NE of Sapatgr?m, India",Real Data,26.3711,90.1611,5.3,Live Coordinates,2018,loc_26_4_90_2_india
+"168 km SW of Port Blair, India",Real Data,10.5407,91.7115,5.5,Live Coordinates,2018,loc_10_5_91_7_india
+"249 km SSE of Hotan, China",Real Data,35.0467,81.0371,5.1,Live Coordinates,2018,loc_35_0_81_0_china
+"Southern Qinghai, China",Real Data,34.9356,92.1552,5.2,Live Coordinates,2018,loc_34_9_92_2_china
+"173 km NW of Rikaze, China",Real Data,30.3493,87.6027,5.2,Live Coordinates,2018,loc_30_3_87_6_china
+"192 km WNW of Dawei, Myanmar",Real Data,14.5358,96.4672,5.1,Live Coordinates,2018,loc_14_5_96_5_myanmar
+"41 km W of Dera Ghazi Khan, Pakistan",Real Data,30.0772,70.2093,5.1,Live Coordinates,2018,loc_30_1_70_2_pakistan
+"45 km WSW of Pyu, Myanmar",Real Data,18.2751,96.0703,5.0,Live Coordinates,2018,loc_18_3_96_1_myanmar
+"170 km SSW of Zangguy, China",Real Data,35.7873,78.3493,5.0,Live Coordinates,2018,loc_35_8_78_3_china
+"248 km SSE of Port Blair, India",Real Data,9.5212,93.4269,5.2,Live Coordinates,2018,loc_9_5_93_4_india
+"38 km SSE of Jurm, Afghanistan",Real Data,36.5631,71.0575,5.0,Live Coordinates,2018,loc_36_6_71_1_afghanistan
+"36 km NW of Ishqoshim, Tajikistan",Real Data,36.9942,71.3822,6.2,Live Coordinates,2018,loc_37_0_71_4_tajikistan
+"18 km NNW of Bannu, Pakistan",Real Data,33.1351,70.5177,5.4,Live Coordinates,2018,loc_33_1_70_5_pakistan
+"Southern Qinghai, China",Real Data,34.5599,96.5154,5.0,Live Coordinates,2018,loc_34_6_96_5_china
+"52 km SW of Ashk?sham, Afghanistan",Real Data,36.3125,71.1715,5.3,Live Coordinates,2018,loc_36_3_71_2_afghanistan
+"34 km WSW of Pyu, Myanmar",Real Data,18.3623,96.1394,5.1,Live Coordinates,2018,loc_18_4_96_1_myanmar
+"78 km SSE of Mawlaik, Myanmar",Real Data,22.9621,94.6137,5.1,Live Coordinates,2018,loc_23_0_94_6_myanmar
+"34 km WSW of Pyu, Myanmar",Real Data,18.3221,96.1596,5.0,Live Coordinates,2018,loc_18_3_96_2_myanmar
+"44 km SW of Ashk?sham, Afghanistan",Real Data,36.4561,71.1277,5.0,Live Coordinates,2018,loc_36_5_71_1_afghanistan
+"46 km SSW of Jurm, Afghanistan",Real Data,36.4652,70.6687,5.0,Live Coordinates,2018,loc_36_5_70_7_afghanistan
+"32 km WSW of Pyu, Myanmar",Real Data,18.3849,96.151,5.1,Live Coordinates,2018,loc_18_4_96_2_myanmar
+"86 km NE of Bamboo Flat, India",Real Data,12.3508,93.1579,5.2,Live Coordinates,2018,loc_12_4_93_2_india
+"37 km S of Jurm, Afghanistan",Real Data,36.5261,70.8507,6.2,Live Coordinates,2018,loc_36_5_70_9_afghanistan
+"Nicobar Islands, India region",Real Data,8.3429,91.8589,5.3,Live Coordinates,2018,loc_8_3_91_9_region
+"Nicobar Islands, India region",Real Data,8.2527,91.7665,5.8,Live Coordinates,2018,loc_8_3_91_8_region
+western Xizang,Real Data,34.99,86.9597,5.1,Live Coordinates,2018,loc_35_0_87_0_xizang
+"46 km SSW of Jurm, Afghanistan",Real Data,36.4525,70.7313,5.3,Live Coordinates,2018,loc_36_5_70_7_afghanistan
+"28 km W of Pyu, Myanmar",Real Data,18.4505,96.1686,5.2,Live Coordinates,2018,loc_18_5_96_2_myanmar
+"48 km E of Paungde, Myanmar",Real Data,18.4229,95.9558,5.2,Live Coordinates,2018,loc_18_4_96_0_myanmar
+"40 km WSW of Pyu, Myanmar",Real Data,18.3719,96.0717,6.0,Live Coordinates,2018,loc_18_4_96_1_myanmar
+"86 km E of W?ngjing, India",Real Data,24.7382,94.9055,5.6,Live Coordinates,2018,loc_24_7_94_9_india
+"Nicobar Islands, India region",Real Data,8.4361,92.415,5.1,Live Coordinates,2017,loc_8_4_92_4_region
+"75 km W of Monywa, Myanmar",Real Data,22.0556,94.4044,5.0,Live Coordinates,2017,loc_22_1_94_4_myanmar
+"173 km NNE of Shi Yomi, India",Real Data,29.964,95.0865,5.1,Live Coordinates,2017,loc_30_0_95_1_india
+"28 km SE of Kod?ri??, Nepal",Real Data,27.7618,86.1471,5.0,Live Coordinates,2017,loc_27_8_86_1_nepal
+"112 km NE of Thang, India",Real Data,35.7238,77.5618,5.2,Live Coordinates,2017,loc_35_7_77_6_india
+"34 km NW of P?palkoti, India",Real Data,30.6339,79.1601,5.1,Live Coordinates,2017,loc_30_6_79_2_india
+"163 km NNE of Shi Yomi, India",Real Data,29.9311,94.8843,5.1,Live Coordinates,2017,loc_29_9_94_9_india
+"156 km NNE of Shi Yomi, India",Real Data,29.8333,94.9838,6.4,Live Coordinates,2017,loc_29_8_95_0_india
+"75 km SSW of Jurm, Afghanistan",Real Data,36.1991,70.6618,5.2,Live Coordinates,2017,loc_36_2_70_7_afghanistan
+"227 km WNW of Qamdo, China",Real Data,32.074,95.0497,5.1,Live Coordinates,2017,loc_32_1_95_0_china
+"256 km E of Port Blair, India",Real Data,11.9798,95.0763,5.0,Live Coordinates,2017,loc_12_0_95_1_india
+"140 km NNW of Bamboo Flat, India",Real Data,12.8183,92.0967,5.0,Live Coordinates,2017,loc_12_8_92_1_india
+"163 km SSE of Port Blair, India",Real Data,10.2437,93.1611,5.0,Live Coordinates,2017,loc_10_2_93_2_india
+"34 km SSW of Ashk?sham, Afghanistan",Real Data,36.4191,71.3353,5.1,Live Coordinates,2017,loc_36_4_71_3_afghanistan
+"206 km NNE of Shi Yomi, India",Real Data,30.3422,94.8528,5.0,Live Coordinates,2017,loc_30_3_94_9_india
+"5 km WSW of Chur?ch?ndpur, India",Real Data,24.3214,93.6199,5.1,Live Coordinates,2017,loc_24_3_93_6_india
+"62 km S of Jurm, Afghanistan",Real Data,36.3061,70.92,5.0,Live Coordinates,2017,loc_36_3_70_9_afghanistan
+"49 km SSW of Jurm, Afghanistan",Real Data,36.4357,70.6732,5.2,Live Coordinates,2017,loc_36_4_70_7_afghanistan
+"4 km SSE of Ashk?sham, Afghanistan",Real Data,36.6476,71.5463,5.0,Live Coordinates,2017,loc_36_6_71_5_afghanistan
+"226 km N of Bamboo Flat, India",Real Data,13.7401,92.548,5.0,Live Coordinates,2017,loc_13_7_92_5_india
+"36 km S of Jurm, Afghanistan",Real Data,36.5405,70.8619,5.1,Live Coordinates,2017,loc_36_5_70_9_afghanistan
+"Andaman Islands, India region",Real Data,14.4592,93.0491,5.3,Live Coordinates,2017,loc_14_5_93_0_region
+"36 km SE of Tharyarwady, Myanmar",Real Data,17.3991,95.9998,5.1,Live Coordinates,2017,loc_17_4_96_0_myanmar
+"55 km SSE of Phek, India",Real Data,25.1865,94.6658,5.1,Live Coordinates,2017,loc_25_2_94_7_india
+"37 km SSW of Chur?ch?ndpur, India",Real Data,24.0437,93.4825,5.0,Live Coordinates,2017,loc_24_0_93_5_india
+"36 km NW of P?palkoti, India",Real Data,30.6544,79.1645,5.1,Live Coordinates,2017,loc_30_7_79_2_india
+"193 km NE of Jumla, Nepal",Real Data,30.6877,83.3674,5.1,Live Coordinates,2017,loc_30_7_83_4_nepal
+"42 km SSE of Shahritus, Tajikistan",Real Data,36.9069,68.3142,5.2,Live Coordinates,2017,loc_36_9_68_3_tajikistan
+"37 km SSE of Mawlaik, Myanmar",Real Data,23.3168,94.5035,5.1,Live Coordinates,2017,loc_23_3_94_5_myanmar
+"18 km ENE of ?mb?sa, India",Real Data,24.0151,92.0177,5.7,Live Coordinates,2017,loc_24_0_92_0_india
+"41 km SW of Ashk?sham, Afghanistan",Real Data,36.454,71.1604,5.0,Live Coordinates,2016,loc_36_5_71_2_afghanistan
+"104 km N of Nagqu, China",Real Data,32.4198,92.116,5.2,Live Coordinates,2016,loc_32_4_92_1_china
+"18 km NE of Dh?rchula, India",Real Data,29.979,80.6321,5.2,Live Coordinates,2016,loc_30_0_80_6_india
+"17 km W of Namche Bazar, Nepal",Real Data,27.8015,86.5319,5.4,Live Coordinates,2016,loc_27_8_86_5_nepal
+"198 km NNW of Qamdo, China",Real Data,32.6865,96.1511,5.0,Live Coordinates,2016,loc_32_7_96_2_china
+"37 km S of Jurm, Afghanistan",Real Data,36.5242,70.8421,5.4,Live Coordinates,2016,loc_36_5_70_8_afghanistan
+"35 km SW of Ashk?sham, Afghanistan",Real Data,36.4437,71.2694,5.1,Live Coordinates,2016,loc_36_4_71_3_afghanistan
+Xizang-Qinghai border region,Real Data,32.8959,94.8768,5.9,Live Coordinates,2016,loc_32_9_94_9_region
+"62 km NNE of Muzaffar?b?d, Pakistan",Real Data,34.9048,73.6822,5.4,Live Coordinates,2016,loc_34_9_73_7_pakistan
+"201 km SW of Port Blair, India",Real Data,10.1636,91.7111,5.0,Live Coordinates,2016,loc_10_2_91_7_india
+"26 km W of Chauk, Myanmar",Real Data,20.9228,94.569,6.8,Live Coordinates,2016,loc_20_9_94_6_myanmar
+"41 km NE of Mawlaik, Myanmar",Real Data,23.8972,94.6983,5.0,Live Coordinates,2016,loc_23_9_94_7_myanmar
+"16 km W of Pakokku, Myanmar",Real Data,21.3109,94.9305,5.1,Live Coordinates,2016,loc_21_3_94_9_myanmar
+"166 km SSE of Pyapon, Myanmar",Real Data,14.9748,96.4342,5.0,Live Coordinates,2016,loc_15_0_96_4_myanmar
+"45 km SSW of Jurm, Afghanistan",Real Data,36.4695,70.6894,5.3,Live Coordinates,2016,loc_36_5_70_7_afghanistan
+"94 km NE of Lobujya, Nepal",Real Data,28.5654,87.4796,5.1,Live Coordinates,2016,loc_28_6_87_5_nepal
+"89 km NE of Lobujya, Nepal",Real Data,28.4538,87.5326,5.4,Live Coordinates,2016,loc_28_5_87_5_nepal
+"227 km WNW of Qamdo, China",Real Data,32.0221,95.0268,5.2,Live Coordinates,2016,loc_32_0_95_0_china
+"137 km WSW of Bamboo Flat, India",Real Data,11.3506,91.5047,5.2,Live Coordinates,2016,loc_11_4_91_5_india
+"190 km SSE of Port Blair, India",Real Data,10.2153,93.6895,5.3,Live Coordinates,2016,loc_10_2_93_7_india
+"76 km SE of Mawlaik, Myanmar",Real Data,23.0944,94.8654,6.9,Live Coordinates,2016,loc_23_1_94_9_myanmar
+"42 km WSW of Ashk?sham, Afghanistan",Real Data,36.4725,71.1311,6.6,Live Coordinates,2016,loc_36_5_71_1_afghanistan
+"38 km SE of Lakhipur, India",Real Data,25.7595,90.5452,5.0,Live Coordinates,2016,loc_25_8_90_5_india
+"227 km WNW of Qamdo, China",Real Data,32.0565,95.0448,5.1,Live Coordinates,2016,loc_32_1_95_0_china
+"40 km NE of Bharatpur, Nepal",Real Data,27.9633,84.6943,5.1,Live Coordinates,2016,loc_28_0_84_7_nepal
+"41 km S of Jurm, Afghanistan",Real Data,36.4892,70.8607,5.2,Live Coordinates,2016,loc_36_5_70_9_afghanistan
+"19 km N of Kathmandu, Nepal",Real Data,27.8782,85.3377,5.2,Live Coordinates,2016,loc_27_9_85_3_nepal
+"291 km N of Bamboo Flat, India",Real Data,14.2933,93.204,5.1,Live Coordinates,2016,loc_14_3_93_2_india
+"19 km N of Farkh?r, Afghanistan",Real Data,36.7511,69.8659,5.2,Live Coordinates,2016,loc_36_8_69_9_afghanistan
+"16 km W of Ashk?sham, Afghanistan",Real Data,36.6676,71.3509,5.0,Live Coordinates,2016,loc_36_7_71_4_afghanistan
+"136 km NNW of Nagqu, China",Real Data,32.6531,91.6264,5.2,Live Coordinates,2016,loc_32_7_91_6_china
+"31 km SSE of Jurm, Afghanistan",Real Data,36.5979,70.9503,5.7,Live Coordinates,2016,loc_36_6_71_0_afghanistan
+"31 km SSE of Jurm, Afghanistan",Real Data,36.6015,70.9688,5.0,Live Coordinates,2016,loc_36_6_71_0_afghanistan
+"29 km W of Imph?l, India",Real Data,24.8036,93.6505,6.7,Live Coordinates,2016,loc_24_8_93_7_india
+"36 km SSE of Jurm, Afghanistan",Real Data,36.5426,70.932,5.2,Live Coordinates,2016,loc_36_5_70_9_afghanistan
+"42 km WSW of Ashk?sham, Afghanistan",Real Data,36.4935,71.1263,6.3,Live Coordinates,2015,loc_36_5_71_1_afghanistan
+"53 km WNW of Jumla, Nepal",Real Data,29.3985,81.6541,5.4,Live Coordinates,2015,loc_29_4_81_7_nepal
+"66 km NE of Muzaffar?b?d, Pakistan",Real Data,34.8307,73.9303,5.0,Live Coordinates,2015,loc_34_8_73_9_pakistan
+"29 km SSW of Ashk?sham, Afghanistan",Real Data,36.4344,71.4233,5.7,Live Coordinates,2015,loc_36_4_71_4_afghanistan
+"21 km NE of Nagarkot, Nepal",Real Data,27.8525,85.6776,5.0,Live Coordinates,2015,loc_27_9_85_7_nepal
+"23 km S of Wana, Pakistan",Real Data,32.0869,69.5562,5.0,Live Coordinates,2015,loc_32_1_69_6_pakistan
+"Hindu Kush region, Afghanistan",Real Data,36.5244,70.3676,7.5,Live Coordinates,2015,loc_36_5_70_4_afghanistan
+"46 km SSW of Jurm, Afghanistan",Real Data,36.459,70.6847,5.9,Live Coordinates,2015,loc_36_5_70_7_afghanistan
+"10 km NNW of Dajal, Pakistan",Real Data,29.6377,70.326,5.6,Live Coordinates,2015,loc_29_6_70_3_pakistan
+"76 km NNW of P?r?n, Afghanistan",Real Data,36.0086,70.4897,5.4,Live Coordinates,2015,loc_36_0_70_5_afghanistan
+"18 km SE of Kod?ri??, Nepal",Real Data,27.8355,86.0795,5.0,Live Coordinates,2015,loc_27_8_86_1_nepal
+"33 km WSW of Ashk?sham, Afghanistan",Real Data,36.5326,71.2147,5.9,Live Coordinates,2015,loc_36_5_71_2_afghanistan
+"19 km WSW of Murree, Pakistan",Real Data,33.8564,73.1926,5.1,Live Coordinates,2015,loc_33_9_73_2_pakistan
+"26 km NW of Taungoo, Myanmar",Real Data,19.0777,96.2302,5.0,Live Coordinates,2015,loc_19_1_96_2_myanmar
+"212 km NNE of Shi Yomi, India",Real Data,30.4,94.8689,5.1,Live Coordinates,2015,loc_30_4_94_9_india
+"250 km E of Port Blair, India",Real Data,11.4234,95.032,5.5,Live Coordinates,2015,loc_11_4_95_0_india
+"23 km ENE of Muzaffar?b?d, Pakistan",Real Data,34.4513,73.7102,5.3,Live Coordinates,2015,loc_34_5_73_7_pakistan
+"20 km W of Ashk?sham, Afghanistan",Real Data,36.6802,71.3004,5.5,Live Coordinates,2015,loc_36_7_71_3_afghanistan
+"18 km N of B?sugaon, India",Real Data,26.6384,90.41,5.1,Live Coordinates,2015,loc_26_6_90_4_india
+"272 km NNE of Bamboo Flat, India",Real Data,14.0119,93.5776,5.2,Live Coordinates,2015,loc_14_0_93_6_india
+"45 km SSE of Kod?ri??, Nepal",Real Data,27.5603,86.0734,5.5,Live Coordinates,2015,loc_27_6_86_1_nepal
+"28 km SSE of Kod?ri??, Nepal",Real Data,27.7199,86.0503,5.0,Live Coordinates,2015,loc_27_7_86_1_nepal
+"23 km ENE of Bharatpur, Nepal",Real Data,27.783,84.6384,5.2,Live Coordinates,2015,loc_27_8_84_6_nepal
+"30 km SE of Kod?ri??, Nepal",Real Data,27.7298,86.1316,5.2,Live Coordinates,2015,loc_27_7_86_1_nepal
+"23 km ENE of Nagarkot, Nepal",Real Data,27.7629,85.7574,5.1,Live Coordinates,2015,loc_27_8_85_8_nepal
+"27 km SSE of Kod?ri??, Nepal",Real Data,27.7221,86.0161,5.0,Live Coordinates,2015,loc_27_7_86_0_nepal
+"42 km SSE of Kod?ri??, Nepal",Real Data,27.625,86.1617,6.3,Live Coordinates,2015,loc_27_6_86_2_nepal
+"37 km SE of Kod?ri??, Nepal",Real Data,27.7458,86.2449,5.4,Live Coordinates,2015,loc_27_7_86_2_nepal
+"52 km WSW of Namche Bazar, Nepal",Real Data,27.5589,86.2566,5.0,Live Coordinates,2015,loc_27_6_86_3_nepal
+"37 km SE of Kod?ri??, Nepal",Real Data,27.7141,86.2177,5.5,Live Coordinates,2015,loc_27_7_86_2_nepal
+Nepal,Real Data,27.8087,86.0655,7.3,Live Coordinates,2015,loc_27_8_86_1_nepal
+"135 km SW of Port Blair, India",Real Data,10.7112,91.9645,5.3,Live Coordinates,2015,loc_10_7_92_0_india
+"13 km ESE of Il?m, Nepal",Real Data,26.8644,88.055,5.1,Live Coordinates,2015,loc_26_9_88_1_nepal
+"17 km SSW of Kod?ri??, Nepal",Real Data,27.8297,85.865,5.0,Live Coordinates,2015,loc_27_8_85_9_nepal
+"21 km SSE of Kod?ri??, Nepal",Real Data,27.7711,86.0173,6.7,Live Coordinates,2015,loc_27_8_86_0_nepal
+"42 km WNW of Kirtipur, Nepal",Real Data,27.7993,84.8715,5.1,Live Coordinates,2015,loc_27_8_84_9_nepal
+"33 km NNW of Kod?ri??, Nepal",Real Data,28.238,85.829,5.1,Live Coordinates,2015,loc_28_2_85_8_nepal
+"48 km NNE of Bharatpur, Nepal",Real Data,28.0979,84.5594,5.2,Live Coordinates,2015,loc_28_1_84_6_nepal
+"69 km NE of Lobujya, Nepal",Real Data,28.3902,87.3173,5.7,Live Coordinates,2015,loc_28_4_87_3_nepal
+"0 km WNW of Panauti??, Nepal",Real Data,27.5866,85.5058,5.3,Live Coordinates,2015,loc_27_6_85_5_nepal
+"33 km NNE of Bharatpur, Nepal",Real Data,27.9351,84.6218,5.0,Live Coordinates,2015,loc_27_9_84_6_nepal
+"13 km NNE of Nagarkot, Nepal",Real Data,27.8172,85.5955,5.0,Live Coordinates,2015,loc_27_8_85_6_nepal
+"26 km S of Kod?ri??, Nepal",Real Data,27.7219,86.0061,5.1,Live Coordinates,2015,loc_27_7_86_0_nepal
+"22 km WSW of Kod?ri??, Nepal",Real Data,27.8822,85.7505,5.5,Live Coordinates,2015,loc_27_9_85_8_nepal
+"7 km W of Kirtipur, Nepal",Real Data,27.672,85.2009,5.0,Live Coordinates,2015,loc_27_7_85_2_nepal
+"71 km NNE of Bharatpur, Nepal",Real Data,28.2244,84.8216,6.6,Live Coordinates,2015,loc_28_2_84_8_nepal
+"27 km SSW of Kod?ri??, Nepal",Real Data,27.7435,85.8302,5.1,Live Coordinates,2015,loc_27_7_85_8_nepal
+"7 km ESE of Nagarkot, Nepal",Real Data,27.687,85.5854,5.0,Live Coordinates,2015,loc_27_7_85_6_nepal
+"12 km NNW of Nagarkot, Nepal",Real Data,27.813,85.448,5.3,Live Coordinates,2015,loc_27_8_85_4_nepal
+"21 km NW of Kirtipur, Nepal",Real Data,27.8006,85.1141,5.1,Live Coordinates,2015,loc_27_8_85_1_nepal
+Nepal,Real Data,28.2046,84.492,5.4,Live Coordinates,2015,loc_28_2_84_5_nepal
+"31 km SSE of Kod?ri??, Nepal",Real Data,27.6857,86.0213,5.6,Live Coordinates,2015,loc_27_7_86_0_nepal
+"0 km NNW of Dhulikhel, Nepal",Real Data,27.6285,85.5398,6.1,Live Coordinates,2015,loc_27_6_85_5_nepal
+"67 km NNE of Bharatpur, Nepal",Real Data,28.2305,84.7314,7.8,Live Coordinates,2015,loc_28_2_84_7_nepal
+"46 km SSE of Jumla, Nepal",Real Data,28.8947,82.3938,5.0,Live Coordinates,2015,loc_28_9_82_4_nepal
+"269 km N of Bamboo Flat, India",Real Data,14.1208,92.9493,5.1,Live Coordinates,2015,loc_14_1_92_9_india
+"262 km N of Bamboo Flat, India",Real Data,14.0702,92.8474,5.1,Live Coordinates,2015,loc_14_1_92_8_india
+"23 km E of Battagram, Pakistan",Real Data,34.671,73.2777,5.4,Live Coordinates,2015,loc_34_7_73_3_pakistan
+"174 km NNW of Bamboo Flat, India",Real Data,13.2332,92.3474,5.1,Live Coordinates,2015,loc_13_2_92_3_india
+western Xizang,Real Data,32.866,83.4305,5.1,Live Coordinates,2015,loc_32_9_83_4_xizang

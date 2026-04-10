@@ -1,0 +1,16 @@
+City,State,Lat,Lon,Rainfall_mm,Flood_Depth_Meters,Soil_Permeability,Flow_Velocity_mps,Affected_Population,Economic_Loss_Millions,Terrain,Year,Block_ID
+Mumbai Coast [LIVE-MOCK 1],Maharashtra,19.7863,73.3271,356.9,10.0,Concrete/Urban,5.48,751080,49.2,Urban,2011,loc_19_8_73_3_mumbai_coast
+Mumbai Coast [LIVE-MOCK 2],Maharashtra,18.65,73.8344,195.9,5.5,Concrete/Urban,3.69,2323081,342.4,Urban,2014,loc_18_6_73_8_mumbai_coast
+Chennai Shores [LIVE-MOCK 3],Tamil Nadu,14.465,81.1649,214.4,9.2,Porous Sand,4.42,712275,786.3,Coastal_Plain,2016,loc_14_5_81_2_chennai_shores
+Chennai Shores [LIVE-MOCK 4],Tamil Nadu,12.4665,80.299,316.5,2.3,Porous Sand,5.02,229823,690.7,Coastal_Plain,2012,loc_12_5_80_3_chennai_shores
+Mumbai Coast [LIVE-MOCK 5],Maharashtra,17.7568,72.9953,425.1,4.8,Concrete/Urban,5.24,2349407,332.7,Urban,2009,loc_17_8_73_0_mumbai_coast
+Chennai Shores [LIVE-MOCK 6],Tamil Nadu,12.4916,80.8883,438.9,3.1,Porous Sand,6.9,138254,532.5,Coastal_Plain,2017,loc_12_5_80_9_chennai_shores
+Mumbai Coast [LIVE-MOCK 7],Maharashtra,18.7612,73.9989,350.6,8.2,Concrete/Urban,6.45,1766168,545.1,Urban,2011,loc_18_8_74_0_mumbai_coast
+Chennai Shores [LIVE-MOCK 8],Tamil Nadu,13.9061,81.7406,307.8,11.6,Porous Sand,3.62,788360,51.1,Coastal_Plain,2016,loc_13_9_81_7_chennai_shores
+Chennai Shores [LIVE-MOCK 9],Tamil Nadu,12.8031,80.2901,151.3,2.7,Porous Sand,3.44,301558,368.3,Coastal_Plain,2016,loc_12_8_80_3_chennai_shores
+Mumbai Coast [LIVE-MOCK 10],Maharashtra,18.2883,74.3294,179.7,4.1,Concrete/Urban,4.36,1169167,590.8,Urban,2017,loc_18_3_74_3_mumbai_coast
+Mumbai Coast [LIVE-MOCK 11],Maharashtra,18.69,72.1889,157.1,5.2,Concrete/Urban,3.93,1623915,657.2,Urban,2017,loc_18_7_72_2_mumbai_coast
+Chennai Shores [LIVE-MOCK 12],Tamil Nadu,11.8668,79.9209,277.5,10.8,Porous Sand,4.56,147899,812.4,Coastal_Plain,2016,loc_11_9_79_9_chennai_shores
+Brahmaputra Basin [LIVE-MOCK 13],Assam,27.038,92.5368,315.3,2.9,Saturated Silt,4.15,2122099,565.7,River_Valley,2011,loc_27_0_92_5_brahmaputra_basin
+Mumbai Coast [LIVE-MOCK 14],Maharashtra,19.6905,72.3924,167.8,5.7,Concrete/Urban,3.72,1505957,523.3,Urban,2012,loc_19_7_72_4_mumbai_coast
+Brahmaputra Basin [LIVE-MOCK 15],Assam,25.0769,92.1948,338.6,9.2,Saturated Silt,5.39,50215,83.2,River_Valley,2015,loc_25_1_92_2_brahmaputra_basin
